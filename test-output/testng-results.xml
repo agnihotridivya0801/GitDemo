@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-15T19:31:08 IST" name="Default suite" finished-at="2023-01-15T19:31:12 IST" duration-ms="4069">
+    <groups>
+    </groups>
+    <test started-at="2023-01-15T19:31:08 IST" name="Default test" finished-at="2023-01-15T19:31:12 IST" duration-ms="4069">
+      <class name="divyaagnihotri.SeleniumFrameworkDesign.ErrorValidations">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:divyaagnihotri.SeleniumFrameworkDesign.ErrorValidations@4135c3b]" started-at="2023-01-15T19:31:08 IST" name="launchApplication" finished-at="2023-01-15T19:31:11 IST" duration-ms="3440" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="invalidLoginError()[pri:0, instance:divyaagnihotri.SeleniumFrameworkDesign.ErrorValidations@4135c3b]" started-at="2023-01-15T19:31:11 IST" name="invalidLoginError" finished-at="2023-01-15T19:31:12 IST" duration-ms="460" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidLoginError -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:divyaagnihotri.SeleniumFrameworkDesign.ErrorValidations@4135c3b]" started-at="2023-01-15T19:31:12 IST" name="tearDown" finished-at="2023-01-15T19:31:12 IST" duration-ms="119" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- divyaagnihotri.SeleniumFrameworkDesign.ErrorValidations -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
